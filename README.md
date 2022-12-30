@@ -7,6 +7,10 @@ backend
 
 https://discord.gg/gNC27AphfC 
 
+https://discord.com/api/guilds/692070157572636733/widget.json
+
+![Discord Banner 2](https://discord.com/api/guilds/692070157572636733/widget.png?style=banner2)
+<img src="https://discord.com/api/guilds/692070157572636733/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 <div>
   
