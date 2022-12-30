@@ -9,8 +9,8 @@ https://discord.gg/gNC27AphfC
 
 https://discord.com/api/guilds/692070157572636733/widget.json
 
-![Discord Banner 2](https://discord.com/assets/28174a34e77bb5e5310ced9f95cb480b.png)
-<a src="https://discord.gg/gNC27AphfC" alt="Discord Banner 2"/>
+
+<a src="https://discord.gg/gNC27AphfC" alt="Discord Banner 2"/>![Discord Banner 2](https://discord.com/assets/28174a34e77bb5e5310ced9f95cb480b.png)<a/>
 
 <div>
   
