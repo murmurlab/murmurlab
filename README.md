@@ -7,7 +7,7 @@ backend
 <div>
   
   
-# KNOW
+# know
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="git cli" alt="git cli" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -19,7 +19,7 @@ backend
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode tips" alt="vscode tips" width="40" height="40"/>&nbsp;
   
   
-# little
+# a bit
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="discordjs" alt="discordjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="electronjs" alt="electronjs" width="40" height="40"/>&nbsp;
