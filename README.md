@@ -1,8 +1,4 @@
-
-backend
-
-
-[![murmur clan](https://discord.com/assets/28174a34e77bb5e5310ced9f95cb480b.png)](https://discord.gg/gNC27AphfC)
+[![murmur clan](https://en.wikipedia.org/wiki/Discord#/media/File:Discord_logo.svg)](https://discord.gg/gNC27AphfC)
 
 <div>
   
