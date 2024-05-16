@@ -1,4 +1,4 @@
-[![murmur clan](discord.png)](https://discord.gg/gNC27AphfC)
+[![murmur clan]](https://discord.gg/gNC27AphfC)
 
 <div>
   
