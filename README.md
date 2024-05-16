@@ -1,4 +1,4 @@
-discord/[<img src="./murmurman.png" width="50" />](https://discord.gg/gNC27AphfC)
+discord -> [<img src="./murmurman.png" width="50" />](https://discord.gg/gNC27AphfC)
 
 <div>
   
