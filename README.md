@@ -1,4 +1,4 @@
-[![murmur clan](./murmurman.png){width=50 height=50}](https://discord.gg/gNC27AphfC)
+[![murmur clan]<img src="./murmurman.png" width="30" />](https://discord.gg/gNC27AphfC)
 
 <div>
   
