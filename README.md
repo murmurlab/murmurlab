@@ -24,10 +24,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="unix" alt="unix" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim vs emacs" alt="vim vs emacs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
-  
-# favorites
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint and 42norm rules" alt="eslint and 42norm rules" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original-wordmark.svg" title="thealgorithms" alt="thealgorithms" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  
